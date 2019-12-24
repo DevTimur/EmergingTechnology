@@ -4,7 +4,7 @@
 # HYDROPONICS MODULE
 item.emergingtechnology.hydroponic.name=Гидропонная Установка
 item.emergingtechnology.light.name=Фитолампа
-item.emergingtechnology.frame.name=Гидропонная рама
+item.emergingtechnology.frame.name=Гидропонная Hама
 
 item.emergingtechnology.redbulb.name=Красный Светодиод
 item.emergingtechnology.greenbulb.name=Зеленый Светодиод
@@ -14,36 +14,36 @@ item.emergingtechnology.purplebulb.name=Ультрафиолетовый Све�
 # POLYMERS MODULE
 item.emergingtechnology.processor.name=Процессор
 item.emergingtechnology.shredder.name=Измельчитель
-item.emergingtechnology.shreddedplastic.name=Shredded Plastic
-item.emergingtechnology.shreddedplant.name=Shredded Plant
-item.emergingtechnology.shreddedstarch.name=Shredded Starch
-item.emergingtechnology.filament.name=Filament
-item.emergingtechnology.plasticblock.name=Block of Plastic
-item.emergingtechnology.clearplasticblock.name=Block of Clear Plastic
-item.emergingtechnology.plasticrod.name=Plastic Rod
-item.emergingtechnology.plasticsheet.name=Plastic Sheet
-item.emergingtechnology.machinecase.name=Basic Machine Case
-item.emergingtechnology.ladder.name=Plastic Ladder
+item.emergingtechnology.shreddedplastic.name=Измельченный Пластик
+item.emergingtechnology.shreddedplant.name=Измельченная Биомасса
+item.emergingtechnology.shreddedstarch.name=Измельченный Крахмал
+item.emergingtechnology.filament.name=Пластиковая Нить
+item.emergingtechnology.plasticblock.name=Пластиковый Блок
+item.emergingtechnology.clearplasticblock.name=Прозрачный Пластиковый Блок
+item.emergingtechnology.plasticrod.name=Пластиковый Стержень
+item.emergingtechnology.plasticsheet.name=Пластиковый Лист
+item.emergingtechnology.machinecase.name=Базовый Машинный Корпус
+item.emergingtechnology.ladder.name=Пластиковая Лестница
 
 #SYNTHETICS MODULE
-item.emergingtechnology.cooker.name=Solar Cooker
+item.emergingtechnology.cooker.name=Солнечная Печь
 
 #Blocks
 # HYDROPONICS MODULE
 blocks.emergingtechnology.hydroponic.name=Гидропонная Установка
 blocks.emergingtechnology.light.name=Фитолампа
-blocks.emergingtechnology.frame.name=Гидропонная рама
+blocks.emergingtechnology.frame.name=Гидропонная Hама
 
 # POLYMERS MODULE
 blocks.emergingtechnology.processor.name=Процессор
 blocks.emergingtechnology.shredder.name=Измельчитель
-blocks.emergingtechnology.plasticblock.name=Block of Plastic
-blocks.emergingtechnology.clearplasticblock.name=Block of Clear Plastic
-blocks.emergingtechnology.machinecase.name=Basic Machine Case
-blocks.emergingtechnology.ladder.name=Plastic Ladder
+blocks.emergingtechnology.plasticblock.name=Пластиковый Блок
+blocks.emergingtechnology.clearplasticblock.name=Прозрачный Пластиковый Блок
+blocks.emergingtechnology.machinecase.name=Базовый Машинный Корпус
+blocks.emergingtechnology.ladder.name=Пластиковая Лестница
 
 #SYNTHETICS MODULE
-blocks.emergingtechnology.cooker.name=Solar Cooker
+blocks.emergingtechnology.cooker.name=Солнечная Печь
 
 #Containers
 
@@ -55,13 +55,13 @@ tile.emergingtechnology.frame.name=Гидропонная рама
 # POLYMERS MODULE
 tile.emergingtechnology.processor.name=Процессор
 tile.emergingtechnology.shredder.name=Измельчитель
-tile.emergingtechnology.plasticblock.name=Block of Plastic
-tile.emergingtechnology.clearplasticblock.name=Block of Clear Plastic
-tile.emergingtechnology.machinecase.name=Basic Machine Case
-tile.emergingtechnology.ladder.name=Plastic Ladder
+tile.emergingtechnology.plasticblock.name=Пластиковый Блок
+tile.emergingtechnology.clearplasticblock.name=Прозрачный Пластиковый Блок
+tile.emergingtechnology.machinecase.name=Базовый Машинный Корпус
+tile.emergingtechnology.ladder.name=Пластиковая Лестница
 
 #SYNTHETICS MODULE
-tile.emergingtechnology.cooker.name=Solar Cooker
+tile.emergingtechnology.cooker.name=Солнечная Печь
 
 #ItemGroup
-itemGroup.technologytab=Emerging Technology
+itemGroup.technologytab=Инновационные Технологии
